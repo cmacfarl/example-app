@@ -9,6 +9,9 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 
+/*
+ * New comment to demonstrate a branch.
+ */
 import org.firstinspires.myapplication.databinding.FragmentSecondBinding;
 
 public class SecondFragment extends Fragment {
